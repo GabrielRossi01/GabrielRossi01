@@ -4,8 +4,6 @@
   <a href="https://github.com/GabrielRossi01">
     <img src="https://img.shields.io/github/followers/GabrielRossi01?label=Follow&style=social" alt="GitHub Followers"
   </a>
-  <a href="mailto:rossi17006@gmail.com">
-    <img src="https://img.shields.io/badge/-rossi17006@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
