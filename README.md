@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">👋 Seja bem-vindo ao perfil </h1>
 
-<!--
-**GabrielRossi01/GabrielRossi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/GabrielRossi01">
+    <img src="https://img.shields.io/github/followers/GabrielRossi01?label=Follow&style=social" alt="GitHub Followers"
+  </a>
+  <a href="mailto:rossi17006@gmail.com">
+    <img src="https://img.shields.io/badge/-rossi17006@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Sobre Mim
+
+Sou um apaixonado por tecnologia e sempre busco inovar e melhorar processos com soluções criativas.
+
+- 📚 **Atualmente cursando:** [Análise e Desenvolvimento de Sistemas - FIAP]
+
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielRossi01&show_icons=true&hide_border=true&theme=tokyonight" alt="GabrielRossi01's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRossi01&layout=compact&langs_count=7&theme=tokyonight" alt="GabrielRossi01's Top Languages"/>
+</p>
+
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielRossi01&theme=tokyo-night&bg_color=0d1117&color=79fe96&line=79fe96&point=ffffff&area=true" alt="GabrielRossi01's Activity Graph"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GabrielRossi01&style=flat-square&color=blue" alt="Profile Views">
+</p>
+
+---
+
+<p align="center">
+  <i>"Adapte-se, aprenda e nunca pare de crescer."</i>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="200"/>
+</p>
