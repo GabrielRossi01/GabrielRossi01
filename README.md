@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://github.com/GabrielRossi01">
-    <img src="https://img.shields.io/github/followers/GabrielRossi01?label=Follow&style=social" alt="GitHub Followers"
   </a>
   </a>
 </p>
@@ -40,8 +39,4 @@ Sou um apaixonado por tecnologia e sempre busco inovar e melhorar processos com 
 
 <p align="center">
   <i>"Adapte-se, aprenda e nunca pare de crescer."</i>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="200"/>
 </p>
