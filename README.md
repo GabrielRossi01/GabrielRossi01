@@ -31,10 +31,6 @@ Sou um apaixonado por tecnologia e sempre busco inovar e melhorar processos com 
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GabrielRossi01&style=flat-square&color=blue" alt="Profile Views">
-</p>
-
 ---
 
 <p align="center">
