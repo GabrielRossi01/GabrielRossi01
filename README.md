@@ -30,7 +30,8 @@ Sou um apaixonado por tecnologia e sempre busco inovar e melhorar processos com 
 </p>
 
 ---
-
+![Java](https://img.shields.io/badge/Java-%23E34F26.svg?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ---
 
 <p align="center">
