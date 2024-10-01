@@ -21,19 +21,16 @@ Sou um apaixonado por tecnologia e sempre busco inovar e melhorar processos com 
 </p>
 
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielRossi01&theme=tokyo-night&bg_color=0d1117&color=79fe96&line=79fe96&point=ffffff&area=true" alt="GabrielRossi01's Activity Graph"/>
 </p>
 
 ---
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
----
+<div style="display: inline_block; padding:30px"><br>
+  <img align="center" alt="HTML" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 <p align="center">
   <i>"Adapte-se, aprenda e nunca pare de crescer."</i>
