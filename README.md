@@ -25,13 +25,15 @@ Sou um apaixonado por tecnologia e sempre busco inovar e melhorar processos com 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielRossi01&theme=tokyo-night&bg_color=0d1117&color=79fe96&line=79fe96&point=ffffff&area=true" alt="GabrielRossi01's Activity Graph"/>
 </p>
 
----
-<div style="display: inline_block; padding:30px"><br>
+**<div style="display: inline_block; padding:30px"><br>
   <img align="center" alt="HTML" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<p align="center">
+---
+a href="https://www.instagram.com/groossi_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%2300772332?style=for-the-badge&logo=instagram&logoColor=white"style='padding:2vw' target="_blank"></a>
+ <a href="www.linkedin.com/in/gabriel-oliveira-rossi-155baa324/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%2300772332?style=for-the-badge&logo=linkedin&logoColor=white"style='padding:2vw' target="_blank"></a> 
+ 
   <i>"Adapte-se, aprenda e nunca pare de crescer."</i>
 </p>
