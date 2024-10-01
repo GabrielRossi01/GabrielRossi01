@@ -30,5 +30,4 @@ Sou um apaixonado por tecnologia e sempre busco inovar e melhorar processos com 
   <img align="center" alt="Python" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-  <i>"Adapte-se, aprenda e nunca pare de crescer."</i>
 </p>
