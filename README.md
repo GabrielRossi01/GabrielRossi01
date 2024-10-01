@@ -32,8 +32,6 @@ Sou um apaixonado por tecnologia e sempre busco inovar e melhorar processos com 
 </div>
 
 ---
-a href="https://www.instagram.com/groossi_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%2300772332?style=for-the-badge&logo=instagram&logoColor=white"style='padding:2vw' target="_blank"></a>
- <a href="www.linkedin.com/in/gabriel-oliveira-rossi-155baa324/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%2300772332?style=for-the-badge&logo=linkedin&logoColor=white"style='padding:2vw' target="_blank"></a> 
- 
+
   <i>"Adapte-se, aprenda e nunca pare de crescer."</i>
 </p>
