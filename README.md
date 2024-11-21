@@ -25,38 +25,16 @@
 
 ### 🌐 Social Links:
 <div align="left">
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-rossi-155baa324/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:rossi17006@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
-  <a href="https://github.com/GabrielRossi01" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
-  </a>
 </div>
 
----
-
-### 🐍 Snake Animation:
-<div align="center">
-  <img src="https://github.com/GabrielRossi01/GabrielRossi01/raw/output/snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
-### 📊 GitHub Streaks:
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielRossi01&theme=prussian" alt="GitHub Streak" height="150" />
-</div>
 
----
 
-### 🎯 Fun Fact:
-- 🔥 I'm currently learning **React** and **Spring Boot**!
-- 💻 I'm working on projects that blend **automation** and **AI**.
-
----
-
-### 💬 Contact Me:
-Feel free to connect with me through the links above or drop a message on GitHub Issues for collaborations or inquiries!
