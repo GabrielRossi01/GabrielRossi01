@@ -4,8 +4,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielRossi01&show_icons=true&theme=prussian&include_all_commits=true&count_private=true" alt="GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRossi01&layout=compact&theme=prussian" alt="Top Languages" height="150" />
 </div>
 
 ---
@@ -31,7 +31,7 @@
   <a href="mailto:seuemail@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
-  <a href="https://github.com/seu-username" target="_blank">
+  <a href="https://github.com/GabrielRossi01" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
   </a>
 </div>
@@ -40,14 +40,14 @@
 
 ### 🐍 Snake Animation:
 <div align="center">
-  <img src="https://github.com/seu-username/seu-username/raw/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/GabrielRossi01/GabrielRossi01/raw/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
 ### 📊 GitHub Streaks:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-username&theme=radical" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielRossi01&theme=prussian" alt="GitHub Streak" height="150" />
 </div>
 
 ---
