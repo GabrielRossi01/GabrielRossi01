@@ -6,7 +6,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielRossi01&show_icons=true&theme=prussian&include_all_commits=true&count_private=true" alt="GitHub stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRossi01&layout=compact&theme=prussian" alt="Top Languages" height="150" />
-  ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GabrielRossi01&theme=prussian)
 </div>
 
 ---
