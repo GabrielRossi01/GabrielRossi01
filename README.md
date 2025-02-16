@@ -57,7 +57,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GabrielRossi01/GabrielRossi01/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/GabrielRossi01/GabrielRossi01/blob/output/dist/snake.svg)
 
 ###
 
