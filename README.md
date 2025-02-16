@@ -57,7 +57,7 @@
 
 ###
 
-![Snake animation](https://github.com/GabrielRossi01/GabrielRossi01/blob/output/dist/snake.svg)
+![snake gif](https://github.com/GabrielRossi01/https://github.com/GabrielRossi01/GabrielRossi01.git/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
