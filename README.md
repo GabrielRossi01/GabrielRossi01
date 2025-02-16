@@ -65,11 +65,11 @@
 
 ###
 
-<h3 align="center">Profile Views</h3>
+<h3 align="left">Profile Views</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/GabrielRossi01/count.svg?"  />
 </div>
 
