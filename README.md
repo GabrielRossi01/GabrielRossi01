@@ -69,7 +69,7 @@
 
 ###
 
-<h3 align="left">Profile Views</h3>
+<h3 align="left">👀 Profile Views</h3>
 
 ###
 
