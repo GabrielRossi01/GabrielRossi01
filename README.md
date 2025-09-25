@@ -21,6 +21,7 @@
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=red)
 ![Postman](https://img.shields.io/badge/Postman-000000?style=flat&logo=postman&logoColor=FF6C37)
 ![Insomnia](https://img.shields.io/badge/Insomnia-000000?style=flat&logo=insomnia&logoColor=5849BE)
+![Swagger](https://img.shields.io/badge/Swagger-000000?style=flat&logo=swagger&logoColor=85EA2D)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=red)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=blue)
