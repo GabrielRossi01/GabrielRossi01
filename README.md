@@ -1,8 +1,8 @@
-<h1 align="center">Welcome to my profile! 👋</h1>
+<h2 align="center">Welcome to my profile! 👋👽</h2>
 
 ###
 
-<h2 align="center">Aspiring developer passionate about learning and creating impactful solutions</h2>
+<h3 align="center">Aspiring developer passionate about learning and creating impactful solutions</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">🧑‍💻 Technologies & Tools</h2>
+<h3 align="left">🧑‍💻 Technologies & Tools</h3>
 
 ###
 
