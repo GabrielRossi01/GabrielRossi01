@@ -28,11 +28,15 @@
 
 ![PL/SQL](https://img.shields.io/badge/PL/SQL-000000?style=flat&logo=postgresql&logoColor=blue)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=yellow)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-000000?style=flat&logo=jupyter&logoColor=F37626)
 ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=flat&logo=springboot&logoColor=6DB33F)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=yellow)
 
+
+
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=blue)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000?style=flat&logo=tailwindcss&logoColor=06B6D4)
 ![.NET](https://img.shields.io/badge/.NET-000000?style=flat&logo=dotnet&logoColor=512BD4)
 ![C#](https://img.shields.io/badge/C%23-000000?style=flat&logo=c-sharp&logoColor=blue)
 ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=61DAFB)
