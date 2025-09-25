@@ -26,6 +26,8 @@
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=blue)
 ![Oracle VirtualBox](https://img.shields.io/badge/VirtualBox-000000?style=flat&logo=virtualbox&logoColor=orange)
 
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"  />
+
 ![PL/SQL](https://img.shields.io/badge/PL/SQL-000000?style=flat&logo=postgresql&logoColor=blue)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=yellow)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-000000?style=flat&logo=jupyter&logoColor=F37626)
@@ -49,7 +51,7 @@
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"  />
+
 
 ###
 
