@@ -28,7 +28,8 @@
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"  />
 
-![PL/SQL](https://img.shields.io/badge/PL/SQL-000000?style=flat&logo=postgresql&logoColor=blue)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=336791)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=yellow)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-000000?style=flat&logo=jupyter&logoColor=F37626)
 ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=)
@@ -44,6 +45,7 @@
 ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-000000?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-000000?style=flat&logo=angular&logoColor=DD0031)
 
 ###
 
