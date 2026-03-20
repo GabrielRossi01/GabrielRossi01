@@ -24,7 +24,7 @@
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=red)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=blue)
-![Oracle VirtualBox](https://img.shields.io/badge/VirtualBox-000000?style=flat&logo=virtualbox&logoColor=orange)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-000000?style=flat&logo=microsoftazure&logoColor=0089D6)
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"  />
 
