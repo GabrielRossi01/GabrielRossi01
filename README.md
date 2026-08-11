@@ -1,4 +1,4 @@
-<h2 align="center">Welcome to my profile! 👋👽</h2>
+<h2 align="center">Welcome to my profile!</h2>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">🧑‍💻 Technologies & Tools</h3>
+<h3 align="left">Technologies & Tools</h3>
 
 ###
 
