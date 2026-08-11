@@ -37,9 +37,8 @@
 ![C#](https://img.shields.io/badge/C%23-000000?style=flat&logo=c-sharp&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=flat&logo=springboot&logoColor=6DB33F)
+
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000000?style=flat&logo=rabbitmq&logoColor=FF6600)
-
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000?style=flat&logo=tailwindcss&logoColor=06B6D4)
